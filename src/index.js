@@ -1,4 +1,4 @@
-import fetch from 'node-fetch'
+import fetch from 'isomorphic-fetch'
 /**
  * TODO: don't rely on window.fetch
  * create empty document in storage
